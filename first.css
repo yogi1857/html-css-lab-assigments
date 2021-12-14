@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(226, 226, 226);
+  }
+  h1 {
+    color:blueviolet;
+    text-align: center;
+
+  }
+  #p1 {
+    color:black;
+    font-size: 20px;
+  }
+  #p2 {
+    color:rgb(250, 0, 0);
+    font-size: 20px;
+  }
+  #p3 {
+    color:black;
+    font-size: 15px;
+
+  }
+  img{
+      float: left;
+      font-size: 15px;
+  }
